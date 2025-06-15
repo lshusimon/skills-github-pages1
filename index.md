@@ -6,6 +6,6 @@ title: Welcome to the Reactor Series Blog!
 
 This session is about learning to used GitHub Skills
 
--- Isue-based
+- Isue-based
 - Self-Paced
 - GitHub technique and tricks
